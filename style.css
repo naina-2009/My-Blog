@@ -1,0 +1,95 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
+
+.travel_mainDiv 
+{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+p
+{
+    font-family: Montserrat;
+    font-size: 16px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.movie_text span
+{
+    color: orange;
+}
+
+kbd
+{
+    background-color: maroon;
+    font-family: Quintessential;
+    font-size: 23px;
+}
+
+.page-header
+{
+    font-family: Festive;
+    font-size: 45px;
+}
+
+.movie_head
+{
+    font-family: Montserrat;
+    color: white;
+    background-color: #0C9014;
+    font-size: 20px;
+}
+
+h5
+{
+    font-family: Bitter;
+    font-size: 25px;
+    color: black;
+}
+
+nav
+{
+    font-family: Footlight MT;
+    font-size: 30px;
+}
+
+svg
+{
+    width: 30px;
+    height: 30px;
+}
+
+a
+{
+    font-family: Zen Kaku Gothic Antique;
+    font-size: 20px;
+    color: maroon;
+}
+
+#book
+{
+    width: 400px;
+}
